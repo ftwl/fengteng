@@ -326,17 +326,5 @@
         </nav>
       </footer>
       <!-- / Footer Section -->
-
       <!-- JavaScript Dependencies -->
-    </body>[Mon Jun 10 20:26:39 2019] [error] [client 192.168.0.106] File does not exist: /Users/jokky/work/fengteng/templates/default/js/popper.min.js.map
-[Mon Jun 10 20:26:39 2019] [error] [client 192.168.0.106] File does not exist: /Users/jokky/work/fengteng/templates/default/style/bootstrap.min.css.map
-[Mon Jun 10 20:26:39 2019] [error] [client 192.168.0.106] File does not exist: /Users/jokky/work/fengteng/templates/default/fonts, referer: http://192.168.0.106/templates/default/style/font-awesome.min.css
-[Mon Jun 10 20:26:39 2019] [error] [client 192.168.0.106] File does not exist: /Users/jokky/work/fengteng/templates/default/fonts, referer: http://192.168.0.106/templates/default/style/font-awesome.min.css
-[Mon Jun 10 20:26:39 2019] [error] [client 192.168.0.106] File does not exist: /Users/jokky/work/fengteng/templates/default/fonts, referer: http://192.168.0.106/templates/default/style/font-awesome.min.css
-[Mon Jun 10 20:26:48 2019] [error] [client 192.168.0.106] File does not exist: /Users/jokky/work/fengteng/templates/default/js/popper.min.js.map
-[Mon Jun 10 20:26:48 2019] [error] [client 192.168.0.106] File does not exist: /Users/jokky/work/fengteng/templates/default/style/bootstrap.min.css.map
-[Mon Jun 10 20:27:27 2019] [error] [client 192.168.0.104] File does not exist: /Users/jokky/work/fengteng/templates/default/fonts, referer: http://192.168.0.106/
-[Mon Jun 10 20:27:27 2019] [error] [client 192.168.0.104] File does not exist: /Users/jokky/work/fengteng/templates/default/fonts, referer: http://192.168.0.106/
-[Mon Jun 10 20:27:27 2019] [error] [client 192.168.0.104] File does not exist: /Users/jokky/work/fengteng/templates/default/fonts, referer: http://192.168.0.106/
-[Mon Jun 10 20:27:27 2019] [error] [client 192.168.0.104] File does not exist: /Users/jokky/work/fengteng/templates/default/fonts, referer: http://192.168.0.106/
-[Mon Jun 10 20:27:28 2019] [error] [client 192.168.0.104] File does not exist: /Users/jokky/work/fengteng/templates/default/fonts, referer: http://192.168.0.106/
+    </body>
