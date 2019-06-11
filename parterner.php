@@ -11,8 +11,8 @@
         <link href="templates/default/style/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
         <link rel="stylesheet" href="templates/default/style/shards.min.css">
         <link rel="stylesheet" href="templates/default/style/shards-extras.min.css">
-        <link rel="stylesheet" href="templates/default/style/about.css">
         <link rel="stylesheet" href="templates/default/style/parterner.css">
+        <link rel="stylesheet" href="templates/default/style/about.css">
         <script src="templates/default/js/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
         <script src="templates/default/js/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
         <script src="templates/default/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
@@ -137,14 +137,14 @@
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
           <div class="container footer-bg">
             <div class="row">
-              <div class="col-md-3 col-sm-12">
+              <div class="col-md-3 col-sm-12" style="text-align:center;">
                 <a class="navbar-brand" href="#">江苏峰腾网络科技有限公司</a>
                 <a class="navbar-brand com-info" href="#">服务热线:400-6188-776</a>
                 <a class="navbar-brand com-info" href="#">邮箱:fengteng@tuiyixia.com.cn</a>
                 <a class="navbar-brand com-info" href="#">地址:江苏省南通市崇川区星光耀广场17A 1115号</a>
               </div>
             </div>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler footer-btn" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">

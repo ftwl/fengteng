@@ -144,6 +144,12 @@
     }
 }
 
+@media (max-width: 767px){
+    .footer-btn{
+        width: 100%;
+    }
+}
+
 
 /* Details */
 

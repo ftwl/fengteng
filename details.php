@@ -91,14 +91,14 @@
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
           <div class="container footer-bg">
             <div class="row">
-              <div class="col-md-3 col-sm-12">
+              <div class="col-md-3 col-sm-12" style="text-align:center;">
                 <a class="navbar-brand" href="#">江苏峰腾网络科技有限公司</a>
                 <a class="navbar-brand com-info" href="#">服务热线:400-6188-776</a>
                 <a class="navbar-brand com-info" href="#">邮箱:fengteng@tuiyixia.com.cn</a>
                 <a class="navbar-brand com-info" href="#">地址:江苏省南通市崇川区星光耀广场17A 1115号</a>
               </div>
             </div>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler footer-btn" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
