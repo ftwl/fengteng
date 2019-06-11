@@ -173,6 +173,37 @@
   max-width: 100%;
 }
 
+.swiper-container{
+    width: 300px;
+    height: 650px;
+    left: 50%;
+}
+
+.swiper-wrapper{
+    width: 300px;
+}
+
+
+.shards-app-promo-page--1 .app-screenshot img{
+    left: 50%;
+}
+
+.swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+    bottom: 10px;
+    left: 0;
+    width: 100%;
+}
+
+.swiper-pagination {
+    position: absolute;
+    text-align: center;
+    -webkit-transition: .3s opacity;
+    -o-transition: .3s opacity;
+    transition: .3s opacity;
+    -webkit-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+    z-index: 10;
+}
 
 
 
