@@ -262,34 +262,20 @@
             <h3 class="g-tit-1">合作伙伴 <span class="en">COOPERATIVE</span></h3>
         </div>
         <div class="container">
-          <div class="row">
-            <div class="col-md-3 col-sm-12">
-              <img src="templates/default/images/logo1.jpg"/>
+            <div class="logos">
+              <img src="/templates/default/images/logo1.jpg"/>
+              <img src="/templates/default/images/logo2.jpg"/>
+              <img src="/templates/default/images/logo3.jpg"/>
+              <img src="/templates/default/images/logo4.jpg"/>
+              <img src="/templates/default/images/logo5.jpg"/>
+              <img src="/templates/default/images/logo6.jpg"/>
+              <img src="/templates/default/images/logo7.jpg"/>
+              <img src="/templates/default/images/logo8.jpg"/>
             </div>
-            <div class="col-md-3 col-sm-12">
-              <img src="templates/default/images/logo2.jpg"/>
-            </div>
-            <div class="col-md-3 col-sm-12">
-              <img src="templates/default/images/logo3.jpg"/>
-            </div>
-            <div class="col-md-3 col-sm-12">
-              <img src="templates/default/images/logo4.jpg"/>
-            </div>
-            <div class="col-md-3 col-sm-12">
-              <img src="templates/default/images/logo5.jpg"/>
-            </div>
-            <div class="col-md-3 col-sm-12">
-              <img src="templates/default/images/logo6.jpg"/>
-            </div>
-            <div class="col-md-3 col-sm-12">
-              <img src="templates/default/images/logo7.jpg"/>
-            </div>
-            <div class="col-md-3 col-sm-12">
-              <img src="templates/default/images/logo8.jpg"/>
-            </div>
-          </div>
+            <a href="./parterner.php" class="btn btn-primary">
+              更多
+            </a>
         </div>
-     </div>
 
       <!-- Footer Section -->
       <footer>
