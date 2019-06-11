@@ -17,10 +17,9 @@
         <script src="templates/default/js/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
         <script src="templates/default/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
     </head>
-    <body class="shards-app-promo-page--1">
+    <body class="shards-app-promo-page--2">
       <!-- Welcome Section -->
-      <div class="welcome d-flex justify-content-center flex-column">
-        <div class="container">
+      <div class="container nav-h">
           <!-- Navigation -->
           <nav class="navbar navbar-expand-lg navbar-dark pt-4 px-0">
             <a class="navbar-brand mr-5" href="#">
@@ -45,7 +44,6 @@
                   <a class="nav-link" href="#">合作伙伴</a>
                 </li>
               </ul>
-
               <!-- Social Icons -->
               <!-- <ul class="header-social-icons navbar-nav ml-auto">
                 <li class="nav-item">
@@ -56,30 +54,11 @@
           </nav>
           <!-- / Navigation -->
         </div> <!-- .container -->
-
-        <!-- Inner Wrapper -->
-        <div class="inner-wrapper mt-auto mb-auto container">
-          <div class="row">
-            <div class="col-lg-5 col-md-5 col-sm-12 mt-auto mb-auto mr-3">
-                <h1 class="welcome-heading display-4 text-white">推一下APP</h1>
-                <p class="text-muted">“推一下”，是基于LBS技术，通过红包、代金券等人们日常行为的载体，帮助B端商户和C端用户进行更为精准信息曝光的新媒体营销平台。</p>
-<!--                 <a href="#" class="btn btn-lg btn-success btn-pill align-self-center"><i class="fa fa-download mr-2"></i>下载</a> -->
-
-<!--                 <div class="d-block mt-4"> -->
-<!--                   <a href="#"><img class="w-25 mt-2 mr-3" src="templates/default/images/app-promo/badge-apple-store.png" alt="Get it on Apple Store"></a> -->
-<!--                   <a href="#"><img class="w-25 mt-2" src="templates/default/images/app-promo/badge-google-play-store.png" alt="Get it on Google Play Store"></a> -->
-<!--                 </div> -->
-            </div>
-
-            <div class="col-lg-4 col-md-5 col-sm-12 ml-auto">
-              <img class="iphone-mockup ml-auto" src="templates/default/images/iphone.gif" alt="iPhone App Mockup - Shards App Promo Demo">
-            </div>
-          </div>
-        </div>
-        <!-- / Inner Wrapper -->
+      
+      <div class="banner">
+          <img class="img-responsive" src="templates/default/images/banner.jpg" />
       </div>
-      <!-- / Welcome Section -->
-    
+
       <div class="subscribe section bg-white py-4 text">
         <div class="wp">
             <h3 class="g-tit-w">合作商家 <span class="en">PARTERNER</span></h3>
@@ -103,7 +82,6 @@
               <img src="/templates/default/images/logo7.jpg"/>
               <img src="/templates/default/images/logo8.jpg"/>
             </div>
-
             <table class="myTable">
              <tbody class="t-body">
                 <tr>
@@ -153,9 +131,7 @@
 	            
         </div>
       </div>
-
    
-
       <!-- Footer Section -->
       <footer>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">

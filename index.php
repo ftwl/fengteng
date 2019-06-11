@@ -43,7 +43,7 @@
                 <li class="nav-item">
                   <a class="nav-link" href="#">合作伙伴</a>
                 </li>
-              </ul>
+            </ul>
 
               <!-- Social Icons -->
               <!-- <ul class="header-social-icons navbar-nav ml-auto">

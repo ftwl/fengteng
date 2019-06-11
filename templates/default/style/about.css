@@ -151,6 +151,22 @@
     margin-left: 30px !important;
 }
 
+.shards-app-promo-page--2{
+    font-size: 1rem;
+    font-weight: 300;
+    color: #5a6169;
+    background-color: #212529;
+}
+
+.nav-h{
+    padding-bottom: 0px;
+}
+
+.img-responsive {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
 
 
 
