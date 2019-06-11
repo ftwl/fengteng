@@ -328,3 +328,4 @@
       <!-- / Footer Section -->
       <!-- JavaScript Dependencies -->
     </body>
+   </html>
