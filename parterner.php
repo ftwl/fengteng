@@ -70,7 +70,7 @@
               <img src="/templates/default/images/logo3.jpg"/>
               <img src="/templates/default/images/logo4.jpg"/>
               <img src="/templates/default/images/logo5.jpg"/>
-              <img src="/templates/default/images/logo6.jpg"/>
+              <img src="/templates/default/images/logo9.jpg"/>
               <img src="/templates/default/images/logo7.jpg"/>
               <img src="/templates/default/images/logo8.jpg"/>
               <img src="/templates/default/images/logo1.jpg"/>

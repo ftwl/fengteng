@@ -16,13 +16,12 @@
 
 .bg-dark{
     background: #212529;
-    opacity: .9;
 }
 
 .bg-red{
     padding: 50px 0;
     background-position: center;
-    background-image: url('../images/img-bg-6.jpg');
+    background: #fff;
 }
 
 .g-tit-1{

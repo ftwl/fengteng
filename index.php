@@ -12,6 +12,7 @@
         <link rel="stylesheet" href="templates/default/style/shards.min.css">
         <link rel="stylesheet" href="templates/default/style/shards-extras.min.css">
         <link rel="stylesheet" href="templates/default/style/about.css">
+        <link rel="stylesheet" href="templates/default/style/parterner.css">
         <script src="templates/default/js/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
         <script src="templates/default/js/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
         <script src="templates/default/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
@@ -257,9 +258,9 @@
         </div>
       </div> -->
       <!-- / Contact Section -->
-     <div class="subscribe section bg-red py-4 text">
+     <div class="subscribe section bg-white py-4 text">
        <div class="wp">
-            <h3 class="g-tit-1">合作伙伴 <span class="en">COOPERATIVE</span></h3>
+            <h3 class="g-tit-w">合作伙伴 <span class="en">COOPERATIVE</span></h3>
         </div>
         <div class="container">
             <div class="logos">
@@ -268,7 +269,7 @@
               <img src="/templates/default/images/logo3.jpg"/>
               <img src="/templates/default/images/logo4.jpg"/>
               <img src="/templates/default/images/logo5.jpg"/>
-              <img src="/templates/default/images/logo6.jpg"/>
+              <img src="/templates/default/images/logo9.jpg"/>
               <img src="/templates/default/images/logo7.jpg"/>
               <img src="/templates/default/images/logo8.jpg"/>
             </div>
@@ -279,7 +280,7 @@
 
       <!-- Footer Section -->
       <footer>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="position:relative;top:25px;">
           <div class="container footer-bg">
             <div class="row">
               <div class="col-md-3 col-sm-12">
